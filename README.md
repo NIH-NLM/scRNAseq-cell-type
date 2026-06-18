@@ -1,3 +1,10 @@
+-	This repository has been archived and is no longer maintained.
+-	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+-	It should not be used in production systems.
+
+# 
+
+
 # scRNA-seq Cell-Type Identification via Probabilistic Barcodes
 
 Single-cell RNA-sequencing cell-type identification that leverages reference data to combine information across thousands of genes, learn probabilistic barcode representations of cell-types, and probabilistically assign cell-type identity to unknown cells.
